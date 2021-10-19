@@ -1,6 +1,6 @@
 ### Olá, eu sou Rodrigo Lopes 👋
 
-- 🔭 Sou estudande de sistemas de informação e atualmente trabalho como aprendiz administrativo.
+- 🔭 Sou estudante de sistemas de informação e atualmente trabalho como aprendiz administrativo.
 - 🌱 Estou estudando: Laravel, vue e reactjs.
 - 📫 Contate-me: rodrigolopesti1@gmail.com | rodrigo.plopesti@gmail.com | (21) 994894638
 - 😄 Pronouns: dele/ele
