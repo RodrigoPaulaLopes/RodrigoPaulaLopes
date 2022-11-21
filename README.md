@@ -1,7 +1,7 @@
 ### Olá, eu sou Rodrigo Lopes 👋
 
 - 🔭 Sou estudante de sistemas de informação e atualmente trabalho como programador web.
-- 🌱 Estou estudando: Laravel, vue e reactjs.
+- 🌱 Estou estudando: Reactjs e Nodejs com typescript, python e DevOps.
 - 📫 Contate-me: rodrigolopesti1@gmail.com | rodrigo.plopesti@gmail.com | (21) 99489-4638 | (21) 99604-1143
 - Meu Portfólio: https://rodrigolopesportfolio.herokuapp.com
 - 😄 Pronouns: dele/ele
