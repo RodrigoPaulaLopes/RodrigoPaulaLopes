@@ -6,6 +6,9 @@
 - Meu Portfólio: https://rodrigolopesportfolio.herokuapp.com
 - 😄 Pronouns: dele/ele
 -->
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+</head>
 <div align="center">
   <a href="https://github.com/RodrigoPaulaLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoPaulaLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,7 +22,9 @@
       <img align="center" alt="Rodrigo-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
       <img align="center" alt="Rodrigo-nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
       
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+            <img align="center" alt="Rodrigo-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+          
+            
           
       <img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="Rodrigo-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
