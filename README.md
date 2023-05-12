@@ -4,6 +4,7 @@
 - 🌱 Estou estudando: Reactjs e Nodejs com typescript tudo isso voltado para arquitetura serverless com aws, DevOps, microsserviços com java e spring boot. 
 - 📫 Contate-me: rodrigolopesti1@gmail.com | rodrigo.plopesti@gmail.com | (21) 99489-4638 | (21) 99604-1143
 - Meu Portfólio: https://rodrigolopesportfolio.herokuapp.com
+- Gosto peculiar: Amo Java 😄
 - 😄 Pronouns: dele/ele
 -->
 <head>
