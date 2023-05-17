@@ -13,7 +13,8 @@
 <div align="center">
   <a href="https://github.com/RodrigoPaulaLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoPaulaLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoPaulaLopes&layout=compact&langs_count=10&theme=dark&&langs_options=typescript,java,javascript,python"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoPaulaLopes&layout=compact&langs_count=10&theme=dark&langs_options=typescript,java,javascript,python"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
