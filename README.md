@@ -1,10 +1,8 @@
 ### Olá, eu sou Rodrigo Lopes 👋
 
 - 🔭 Sou estudante de sistemas de informação e atualmente trabalho como Desenvolvedor FullStack.
-- 🌱 Sobre meus conhecimentos: Desenvolvo aplicações utilizando Node.js com TypeScript, focando especialmente em arquiteturas serverless e microsserviços. Minha expertise abrange a implementação de microsserviços utilizando Java com Spring Boot, bem como frameworks JavaScript/TypeScript como Express e NestJS. Tenho experiência sólida na elaboração e execução de testes unitários e de integração, seguindo rigorosamente os princípios do Desenvolvimento Orientado a Testes (TDD). Essa abordagem assegura não apenas a robustez do código, mas também contribui para a manutenção e escalabilidade eficientes do sistema. 
+- 🌱 Sobre meus conhecimentos: Desenvolvo aplicações utilizando Node.js com TypeScript, focando especialmente em arquiteturas serverless e microsserviços. Minha expertise abrange a implementação de sistemas utilizando Python com Django e Flask framework, bem como frameworks JavaScript/TypeScript como Express e NestJS. Tenho experiência sólida na elaboração e execução de testes unitários e de integração, seguindo rigorosamente os princípios do Desenvolvimento Orientado a Testes (TDD). Essa abordagem assegura não apenas a robustez do código, mas também contribui para a manutenção e escalabilidade eficientes do sistema. 
 - 📫 Contate-me: rodrigolopesti1@gmail.com | rodrigo.plopesti@gmail.com | (21) 99489-4638 | (21) 99604-1143
-- Meu Portfólio: https://rodrigolopesportfolio.herokuapp.com
-- Gosto peculiar: Amo Java 😄
 - 😄 Pronouns: dele/ele
 -->
 <head>
